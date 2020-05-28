@@ -35,3 +35,5 @@ sudo make install
 
 # Verify Installation
 pkg-config --modversion opencv4
+
+pip3 -r requirements.txt
